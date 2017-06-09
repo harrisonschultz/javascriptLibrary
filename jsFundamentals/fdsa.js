@@ -1,3 +1,3 @@
-function checkText{
+function checkTest(){
 	test();
 }
