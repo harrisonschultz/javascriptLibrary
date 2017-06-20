@@ -42,3 +42,9 @@ getBulls('0.09_bulls.txt',function(bulls){
 
     console.log(bulls);
 });
+
+console.log("Hey tell me our name?");
+var pintNmaeInThreeSeconds = setTimeout(function(){
+    consol.log("Bryce");
+},3000);
+console.log("nice to meet you");
